@@ -15,8 +15,11 @@ From Udacity:
 
 **OpenSea:**
 
-Marketplace Seller: https://rinkeby.opensea.io/accounts/0x3241c3EA0E33b397233bb3CF4de1d0561B641CB0
-Marketplace Buyer: https://rinkeby.opensea.io/accounts/0x27D8D15CbC94527cAdf5eC14B69519aE23288B95
+Marketplace Seller: 
+https://rinkeby.opensea.io/accounts/0x3241c3EA0E33b397233bb3CF4de1d0561B641CB0
+
+Marketplace Buyer: 
+https://rinkeby.opensea.io/accounts/0x27D8D15CbC94527cAdf5eC14B69519aE23288B95
 
 **Deployed Contracts:**
 
